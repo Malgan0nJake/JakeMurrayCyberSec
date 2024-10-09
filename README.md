@@ -1,8 +1,7 @@
 - Hi, I’m Jake
-- I’m interested in Data Privacy and Cybersecurity
-- I’m currently studying for my Security+ certification.
-- I’m looking to collaborate on anything cybersecurity!
-- How to reach me x.com @Sprawl_Runner
+- I am currently working towards a degree in Cybersecurity.
+- I’d love to collaborate.
+- Reach me on X @Malgan0n
 - Fun fact: I have 5 kids!
 
 <!---
